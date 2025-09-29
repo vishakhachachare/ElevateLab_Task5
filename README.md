@@ -8,7 +8,7 @@
 - Set up a **Minikube cluster** locally  
 - Deploy a **containerized app** with Kubernetes  
 - Expose it via a **service**  
-- Scale the app up and down like a boss   
+- Scale the app up and down    
 - Inspect pods and logs like a detective   
 
 ---
